@@ -1,11 +1,3 @@
-/**
- * @TODO:
- *  1. Refactor a bit, is messy.
- *  2. Colors good, fonts meh.
- *  3. Finish actual cart layout.
- *  4. Wire up various data bits in UI.
- *  5. Pull data out of mockup in JS layer.
- */
 html,
 body {
   height: 100%;
